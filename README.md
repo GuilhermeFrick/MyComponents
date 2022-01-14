@@ -1,2 +1,2 @@
 # MyComponents
-Component repository for embedded software 
+Component repo for embedded software 
